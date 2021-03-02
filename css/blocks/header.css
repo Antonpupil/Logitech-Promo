@@ -1,0 +1,33 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 25px 28px 0;
+    min-height: 158px;
+}
+
+.header__title{
+    margin-left: 25%;
+}
+
+.header__hamburger{
+    width: 30px;
+    height: 4px;
+    position: relative;
+    background-color: #2F3132;
+}
+.header__hamburger::after, .header__hamburger::before{
+    content: "";
+    width: 30px;
+    height: 4px;
+    position: absolute;
+    background-color: #2F3132;
+}
+
+.header__hamburger::after{
+    top: 100%;
+    margin-top: 4px;
+}
+.header__hamburger::before{
+    bottom: 100%;
+    margin-bottom: 4px;
+}

@@ -1,0 +1,31 @@
+.pageTop {
+  background: #e0e1e2;
+}
+
+.pageTop__container {
+  display: flex;
+  flex-direction: column;
+}
+
+.pageTop__title {
+  font-size: 20px;
+  line-height: 23px;
+  text-align: center;
+  text-transform: uppercase;
+  overflow: hidden;
+  min-height: 230px;
+  background: url(/img/backgroundImg/MX-Master1.png) top center no-repeat;
+  background-size: cover;
+}
+
+.pageTop__text {
+  font-size: 14px;
+  line-height: 16px;
+  text-align: center;
+  padding-top: 17%;
+  margin: 0 15%;
+}
+
+.pageTop__arrow{
+    margin: 10% auto 12%;
+}

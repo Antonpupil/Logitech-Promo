@@ -1,22 +1,23 @@
 body {
-    font-family: ;
-    color:;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
+  font-family: ;
+  color: #2f3132;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
-html, body{
-    height: 100%;
+html,
+body {
+  height: 100%;
 }
 a {
-    color: inherit;
+  color: inherit;
 }
 
 ul {
-    margin: 0;
-    padding: 0;
+  margin: 0;
+  padding: 0;
 }
 
 ul li {
-    list-style: none;
+  list-style: none;
 }
