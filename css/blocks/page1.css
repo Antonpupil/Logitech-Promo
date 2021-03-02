@@ -1,0 +1,39 @@
+.page1 {
+  background: #ededed;
+  padding-bottom: 5%;
+}
+.page1__container {
+  padding: 11% 11% 0;
+  text-align: center;
+}
+.page1__icon {
+  margin-bottom: 9%;
+}
+
+.page1__title {
+  font-size: 20px;
+  line-height: 23px;
+  text-align: center;
+  margin-bottom: 7%;
+}
+
+.page1__text {
+  font-size: 14px;
+  line-height: 16px;
+  margin-bottom: 11%;
+}
+
+.page1__advertismen {
+  font-weight: 900;
+  font-size: 60px;
+  line-height: 70px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #c4c4c4;
+}
+
+.page1__img {
+  margin: 0 auto;
+  background: top center no-repeat;
+  background-size: cover;
+}
