@@ -21,3 +21,19 @@ ul {
 ul li {
   list-style: none;
 }
+h1 {
+  font-weight: 900;
+  font-size: 20px;
+  line-height: 23px;
+}
+
+h2 {
+  font-weight: 900;
+  font-size: 14px;
+  line-height: 16px;
+}
+
+p{
+  font-size: 14px;
+line-height: 16px;
+}

@@ -1,0 +1,34 @@
+.page3 {
+  background: url(/img/backgroundImg/HighResolutionJPG-MXLifestyle2346.png)
+    bottom center no-repeat;
+  background-color: #ededed;
+  padding: 22% 0 68%;
+  background-size: contain;
+}
+
+.page3__title {
+  text-align: center;
+}
+
+.page3__content-container {
+  padding: 6% 8% 0;
+  text-align: center;
+}
+
+.page3__text1 {
+  margin-bottom: 5%;
+}
+
+.page3__instructions-container {
+  padding: 11% 0 0 17%;
+  text-align: left;
+}
+
+.page3__item {
+  margin-bottom: 5%;
+  font-size: 14px;
+  line-height: 16px;
+}
+.page3__item:last-child {
+  margin-bottom: 0;
+}
