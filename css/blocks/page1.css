@@ -1,9 +1,8 @@
 .page1 {
   background: #ededed;
-  padding-bottom: 5%;
 }
 .page1__container {
-  padding: 11% 11% 0;
+  padding: 11% 11% 5%;
   text-align: center;
 }
 .page1__icon {
