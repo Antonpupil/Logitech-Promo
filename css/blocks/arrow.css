@@ -23,10 +23,6 @@
     border: 12px solid transparent;
     border-right-color: #2F3132;
     border-left-width: 0;
-    width: 0;
-    height: 0;
-    position: relative;
-    margin-right: 6%;
 }
 .arrow__left::after {
     content: "";
@@ -43,9 +39,6 @@
     border: 12px solid transparent;
     border-left-color: #2F3132;
     border-right-width: 0;
-    width: 0;
-    height: 0;
-    position: relative;
 }
 .arrow__right::after {
     content: "";

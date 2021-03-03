@@ -19,6 +19,8 @@
   font-size: 14px;
   line-height: 16px;
   text-align: center;
+  width: 90%;
+    margin: 0 auto;
 }
 
 .page2__text_top {
@@ -45,9 +47,7 @@
   width: 166px;
   min-height: 94px;
 }
-.page2__item:last-child {
-  margin-right: 0;
-}
+
 .page2__item-title {
   font-weight: 900;
   font-size: 20px;
@@ -56,3 +56,11 @@
   margin-bottom: 3%;
 }
 
+.page2__pagination-list{
+  padding-bottom: 6%;
+}
+.page2__pagination-link{
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+}
