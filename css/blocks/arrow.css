@@ -6,6 +6,9 @@
     display: inline-block; 
     text-align: center; 
     height: 100%;
+    transition: -webkit-transform .6s ease-in-out;
+    transition: transform .6s ease-in-out;
+    transition: transform .6s ease-in-out,-webkit-transform .6s ease-in-out;
   }
 /* .arrow {
     border: 19px solid transparent;
