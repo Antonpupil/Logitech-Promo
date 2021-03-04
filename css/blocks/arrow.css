@@ -1,4 +1,13 @@
-.arrow {
+.arrow{
+    display: inline-block;
+    width: fit-content;
+}
+.arrow__link {
+    display: inline-block; 
+    text-align: center; 
+    height: 100%;
+  }
+/* .arrow {
     border: 19px solid transparent;
     border-top-color: #FF2947;
     border-bottom-width: 0;
@@ -50,4 +59,4 @@
     position: absolute;
     top: -12px;
     left: -16px;
-}
+} */
