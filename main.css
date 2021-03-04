@@ -5,6 +5,7 @@
 @import url('./css/layout/base.css');
 
 
+@import url('./css/blocks/wrapper.css');
 @import url('./css/blocks/hamburger.css');
 @import url('./css/blocks/container.css');
 @import url('./css/blocks/pageTop.css');
@@ -16,13 +17,15 @@
 
 @import url('./css/blocks/page2.css');
 @import url('./css/blocks/pagination.css');
-@import url('./css/blocks/footer.css');
+
 
 @import url('./css/blocks/page3.css');
 
 @import url('./css/blocks/page4.css');
 
+@import url('./css/blocks/page5.css');
 
+@import url('./css/blocks/footer.css');
 
 /* @import url('./css/blocks/wrapper.css');
 

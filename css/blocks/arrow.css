@@ -1,5 +1,5 @@
 .arrow {
-    border: 30px solid transparent;
+    border: 19px solid transparent;
     border-top-color: #FF2947;
     border-bottom-width: 0;
     width: 0;
@@ -9,14 +9,14 @@
 
 .arrow::after {
     content: "";
-    border: 30px solid transparent;
+    border: 19px solid transparent;
     border-top-color: #e0e1e2;
     border-bottom-width: 0;
     width: 0;
     height: 0;
     position: absolute;
-    top: -33px;
-    left: -30px;
+    top: -22px;
+    left: -19px;
 }
 
 .arrow__left{
