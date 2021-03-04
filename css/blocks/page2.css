@@ -14,10 +14,10 @@
 .page2__text_top {
   width: 247px;
   margin: 0 auto 30px;
-  }
-  .page2__text_bottom {
-    margin: 0 auto;
-    }
+}
+.page2__text_bottom {
+  margin: 0 auto;
+}
 .page2__footer-title {
   margin-bottom: 20px;
   font-weight: 900;
@@ -58,7 +58,56 @@
 .page2__container-footer {
   padding: 27px 33px 63px;
 }
-.page2__text_bottom{
-  font-size: 24px;
-line-height: 28px;
+
+.page2__carousel-inner {
+  overflow: visible;
+  max-height: 241px;
+  display: flex;
+  justify-content: space-between;
+}
+.page2__carousel-indicators {
+  position: relative;
+    top: 60px;
+    background: red;
+}
+
+.page2__carousel-indicators .page2__carousel-indicators-item{
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  opacity: 1;
+  border: none;
+  text-indent: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+
+
+
+
+.page2__carousel-control {
+  display: inline-flex;
+  top: 312px;
+  opacity: 1;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+
+.page2__carousel-control-prev {
+  left: -80px;
+}
+.page2__carousel-control-next {
+  right: -80px;
+}
+.page2__carousel-control-icon {
+  width: 9px;
+  height: 18px;
+}
+.page2__carousel-control-prev-icon {
+  background-image: url(/img/icon/arrow-left.png);
+}
+.page2__carousel-control-next-icon {
+  background-image: url(/img/icon/arrow-right.png);
 }

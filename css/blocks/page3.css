@@ -2,7 +2,7 @@
   background: url(/img/backgroundImg/HighResolutionJPG-MXLifestyle2346.png)
     bottom center no-repeat;
   background-color: #ededed;
-  padding: 22% 0 68%;
+  padding: 70px 0 214px;
   background-size: contain;
 }
 
@@ -11,23 +11,21 @@
 }
 
 .page3__content-container {
-  padding: 6% 8% 0;
+  padding: 20px 33px 0;
   text-align: center;
 }
 
 .page3__text1 {
-  margin-bottom: 5%;
+  margin-bottom: 16px;
 }
 
 .page3__instructions-container {
-  padding: 11% 17% 0;
-  text-align: left;
+  padding: 36px 61px 0 36px;
 }
 
 .page3__item {
-  margin-bottom: 5%;
-  font-size: 14px;
-  line-height: 16px;
+  margin-bottom: 16px;
+  text-align: left;
 }
 .page3__item:last-child {
   margin-bottom: 0;
