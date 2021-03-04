@@ -1,26 +1,24 @@
 .page1 {
-  background: #ededed;
+  background: url(/img/mouseImg/High_Resolution_PNG-MX_Master_3_LEFT_GRAPHITE.png) center no-repeat;
+  background-size: contain;
+  background-color: #ededed;
+  background-position: bottom;
+  height: 100%;
 }
 .page1__container {
-  padding: 11% 11% 5%;
+  padding: 42px 34px 252px;
   text-align: center;
 }
 .page1__icon {
-  margin-bottom: 9%;
+  margin-bottom: 27px;
 }
 
 .page1__title {
-  font-size: 20px;
-  line-height: 23px;
-  text-align: center;
-  margin-bottom: 7%;
+  margin-bottom: 20px;
 }
 
-
 .page1__text {
-  font-size: 14px;
-  line-height: 16px;
-  margin-bottom: 11%;
+  margin-bottom: 31px;
 }
 
 .page1__advertismen {
@@ -30,10 +28,7 @@
   text-align: center;
   text-transform: uppercase;
   color: #c4c4c4;
+  min-width: max-content;
 }
 
-.page1__img {
-  margin: 0 auto;
-  background: top center no-repeat;
-  background-size: cover;
-}
+

@@ -1,5 +1,7 @@
 .pageTop {
   background: #e0e1e2;
+  position: relative;
+  text-align: center;
 }
 
 .pageTop__container {
@@ -8,8 +10,6 @@
 }
 
 .pageTop__title {
-  font-size: 20px;
-  line-height: 23px;
   text-align: center;
   text-transform: uppercase;
   overflow: hidden;
@@ -19,13 +19,10 @@
 }
 
 .pageTop__text {
-  font-size: 14px;
-  line-height: 16px;
-  text-align: center;
-  padding-top: 17%;
-  margin: 0 15%;
+  padding-top: 67px;
+  margin: 0 59px;
 }
 
 .pageTop__arrow{
-    margin: 10% auto 12%;
+    margin: 40px auto 48px;
 }

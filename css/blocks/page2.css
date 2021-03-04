@@ -3,71 +3,62 @@
 }
 
 .page2__container {
-  padding: 19% 5% 8%;
+  padding: 70px 19px 28px;
   text-align: center;
 }
 
 .page2__title {
-  font-weight: 900;
-  font-size: 20px;
-  line-height: 23px;
-  margin-bottom: 5%;
-}
-
-.page2__text {
-  font-size: 14px;
-  line-height: 16px;
-  text-align: center;
-  width: 90%;
-    margin: 0 auto;
+  margin-bottom: 20px;
 }
 
 .page2__text_top {
-  margin: 0 auto 8%;
-}
-
+  width: 247px;
+  margin: 0 auto 30px;
+  }
+  .page2__text_bottom {
+    margin: 0 auto;
+    }
 .page2__footer-title {
+  margin-bottom: 20px;
   font-weight: 900;
-  font-size: 14px;
-  line-height: 16px;
-  text-align: center;
-  margin-bottom: 7%;
 }
 .page2__list {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
 }
 
 .page2__item {
   border: 1px solid #2f3132;
-  margin-right: 2%;
+  margin-right: 6px;
   text-align: center;
-  padding: 2% 3%;
+  padding: 14px 17px;
   width: 166px;
   min-height: 94px;
 }
-
+.page2__item:last-child {
+  margin: 0;
+}
 .page2__item-title {
-  font-weight: 900;
-  font-size: 20px;
-  line-height: 23px;
   text-transform: uppercase;
-  margin-bottom: 3%;
+}
+.page2__pagination {
+  padding-bottom: 20px;
 }
 
-.page2__pagination-list{
-  padding-bottom: 6%;
-}
-.page2__pagination-link{
+.page2__pagination-link {
   width: 35px;
   height: 35px;
   border-radius: 50%;
 }
 
-.page2__footer{
-  background: #FFFFFF;
+.page2__footer {
+  background: #ffffff;
 }
 
 .page2__container-footer {
-  padding: 7% 10% 17%;
+  padding: 27px 33px 63px;
+}
+.page2__text_bottom{
+  font-size: 24px;
+line-height: 28px;
 }

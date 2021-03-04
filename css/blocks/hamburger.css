@@ -1,3 +1,7 @@
 .hamburger{
     padding-top: 8px;
+    position: absolute;
+    top: 26px;
+    right: 40px;
+    text-align: left;
 }
