@@ -14,7 +14,7 @@
   text-transform: uppercase;
   overflow: hidden;
   min-height: 230px;
-  background: url(/img/backgroundImg/MX-Master1.png) top center no-repeat;
+  background: url(./img/backgroundImg/MX-Master1.png) top center no-repeat;
   background-size: contain;
 }
 
