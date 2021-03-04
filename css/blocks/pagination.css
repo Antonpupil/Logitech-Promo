@@ -22,19 +22,19 @@
 }
 
 .pagination__link_wood {
-  background: url(./img/icon/wood-texture.png);
+  background: url(../../img/icon/wood-texture.png);
 }
 .pagination__link_glass {
-  background: url(./img/icon/glass-texture.png);
+  background: url(../../img/icon/glass-texture.png);
 }
 .pagination__link_linoleum {
-  background: url(./img/icon/linoleum-texture.png);
+  background: url(../../img/icon/linoleum-texture.png);
 }
 .pagination__link_cloth {
-  background: url(./img/icon/cloth-texture.png);
+  background: url(../../img/icon/cloth-texture.png);
 }
 .pagination__link_marble {
-  background: url(./img/icon/marble-texture.png);
+  background: url(../../img/icon/marble-texture.png);
 }
 
 /* 

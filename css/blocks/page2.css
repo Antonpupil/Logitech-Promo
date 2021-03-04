@@ -106,8 +106,8 @@
   height: 18px;
 }
 .page2__carousel-control-prev-icon {
-  background-image: url(./img/icon/arrow-left.png);
+  background-image: url(../../img/icon/arrow-left.png);
 }
 .page2__carousel-control-next-icon {
-  background-image: url(./img/icon/arrow-right.png);
+  background-image: url(../../img/icon/arrow-right.png);
 }
