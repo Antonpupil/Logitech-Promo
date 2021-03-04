@@ -1,3 +1,7 @@
+.wrapper{
+    display: flex;
+    flex-direction: column;
+}
 .wrapper__content{
     flex: 1 0 auto;
 }
