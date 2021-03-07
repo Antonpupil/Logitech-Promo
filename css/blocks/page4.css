@@ -1,62 +1,60 @@
-.page4__container{
-    padding: 16% 5% 14%;
-    text-align: center;
+.page4 {
+  background: #ededed;
+}
+.page4__container {
+  padding: 70px 0 0;
+  text-align: center;
 }
 
-.page4__content{
-    background: #EDEDED;
+.page4__content {
+  margin-bottom: 60px;
 }
 
-.page4__title{
-    width: 82%;
-    margin: 0 auto;
-    margin-bottom: 6%;
+.page4__title {
+  width: 247px;
+  margin: 0 auto;
+  margin-bottom: 20px;
 }
-.page4__text{
-    width: 83%;
-    margin: 0 auto;
-    margin-bottom: 10%;
+.page4__text {
+  width: 308px;
+  margin: 0 auto;
+  margin-bottom: 35px;
 }
 
-.page4__carusel{
-    width: 100%;
-    margin-bottom: 6%;
+.page4__carusel {
+  width: 100%;
 }
 
 .page4__carousel-item img {
-    height: 474px;
-    object-fit: contain;
-  }
-
-
-.page4__footer{
-    background: #C4C4C4;
-    text-align: center;
+  height: 424px;
+  object-fit: contain;
 }
-.page4__pagination-list {
-  padding: 0 26%;
+.page4__carousel-indicators {
+  bottom: -35px;
 }
-.page4__pagination-link {
+.page4__carousel-indicators li {
   width: 15px;
   height: 15px;
   border-radius: 50%;
+  border: none;
+  opacity: 1;
   background-color: #c4c4c4;
-  text-decoration: none;
 }
 
-.page4__pagination-link_active,
-.page4__pagination-link:hover {
+.page4__carousel-indicators li.active {
   background-color: #2f3132;
 }
 
-.page4__pagination-footer{
-    padding: 4% 5% 5%;
+.page4__footer {
+  background: #c4c4c4;
+  text-align: center;
 }
 
-.page4__pagination-footer-list{
-    margin-bottom: 4%;
+.page4__footer-container {
+  padding: 23px 0 26px;
 }
 
-.page4__footer-text{
-    color: white;
+.page4__footer-text {
+  margin: 20px 35px 0;
+  color: white;
 }

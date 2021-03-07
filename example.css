@@ -1,0 +1,60 @@
+.Slideshow_carousel-wrapper {
+
+    display: -webkit-flex;
+    display:         flex;
+
+
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+
+    text-align:center;
+
+    width:100%; 
+}
+
+
+
+/* SLIDESHOW CONTROLS LEFT / RIGHT */
+.Slideshow-ctl-L {
+
+    -webkit-flex: none;
+     flex: none;
+
+    z-index:200;
+
+    top:40%;
+    margin-right:5px;
+
+    height:60px;
+    width:16px;
+
+    opacity:0.7;
+
+    background-size:15px 60px;
+    background-repeat:no-repeat;
+    background-image: url( ... );
+}
+
+
+
+.Slideshow-ctl-R {
+
+    -webkit-flex: none;
+     flex: none;
+
+
+    top:40%;
+    margin-left:5px;
+
+    height:60px;
+    width:15px;
+
+
+    opacity:0.7;
+
+    background-size:15px 60px;
+    background-repeat:no-repeat;
+    background-image: url( ... );
+}
