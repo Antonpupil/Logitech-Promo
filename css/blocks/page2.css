@@ -38,9 +38,6 @@
   width: 100%;
 }
 
-.page2__carousel-indicators {
-  bottom: -64px;
-}
 .page2__carousel-control-next, .page2__carousel-control-prev{
   bottom: -105px;
   top: 310px;
@@ -70,6 +67,8 @@
   border-radius: 50%;
   border: none;
   opacity: 1;
+  margin-right: 10px;
+  margin-left: 10px;
 }
 
 
@@ -106,103 +105,3 @@
 .page2__footer-title {
   margin-bottom: 70px;
 }
-
-
-/* 
-.page2__text_bottom {
-  margin: 0 auto;
-}
-.page2__footer-title {
-  margin-bottom: 20px;
-  font-weight: 900;
-}
-.page2__list {
-  display: flex;
-  justify-content: center;
-}
-
-.page2__item {
-  border: 1px solid #2f3132;
-  margin-right: 6px;
-  text-align: center;
-  padding: 14px 17px;
-  width: 166px;
-  min-height: 94px;
-}
-.page2__item:last-child {
-  margin: 0;
-}
-.page2__item-title {
-  text-transform: uppercase;
-}
-.page2__pagination {
-  padding-bottom: 20px;
-}
-
-.page2__pagination-link {
-  width: 35px;
-  height: 35px;
-  border-radius: 50%;
-}
-
-.page2__footer {
-  background: teal;
-}
-
-.page2__container-footer {
-  padding: 27px 33px 63px;
-}
-
-.page2__carousel-inner {
-  overflow: visible;
-  max-height: 241px;
-  display: flex;
-  justify-content: space-between;
-}
-.page2__carousel-indicators {
-  position: relative;
-    top: 60px;
-    background: red;
-}
-
-.page2__carousel-indicators .page2__carousel-indicators-item{
-  width: 35px;
-  height: 35px;
-  border-radius: 50%;
-  opacity: 1;
-  border: none;
-  text-indent: 100%;
-  white-space: nowrap;
-  overflow: hidden;
-}
-
-
-
-
-
-.page2__carousel-control {
-  display: inline-flex;
-  top: 312px;
-  opacity: 1;
-  height: fit-content;
-  width: fit-content;
-  position: relative;
-}
-
-.page2__carousel-control-prev {
-  left: -80px;
-}
-.page2__carousel-control-next {
-  right: -80px;
-}
-.page2__carousel-control-icon {
-  width: 9px;
-  height: 18px;
-}
-.page2__carousel-control-prev-icon {
-  background-image: url(../../img/icon/arrow-left.png);
-}
-.page2__carousel-control-next-icon {
-  background-image: url(../../img/icon/arrow-right.png);
-}
- */

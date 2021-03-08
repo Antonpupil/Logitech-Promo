@@ -1,5 +1,5 @@
 .page4 {
-  background: #ededed;
+  background: #EDEDED;
 }
 .page4__container {
   padding: 70px 0 0;
@@ -25,10 +25,6 @@
   width: 100%;
 }
 
-.page4__carousel-item img {
-  height: 424px;
-  object-fit: contain;
-}
 .page4__carousel-indicators {
   bottom: -35px;
 }
@@ -44,6 +40,11 @@
 .page4__carousel-indicators li.active {
   background-color: #2f3132;
 }
+.page4__carousel-item img {
+  height: 424px;
+  object-fit: contain;
+}
+
 
 .page4__footer {
   background: #c4c4c4;
